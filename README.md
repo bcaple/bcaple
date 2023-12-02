@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @bcaple
+- 👀 I’m interested in ...
+      Learning how to code
+- 🌱 I’m currently learning ...
+    Python on PY4E.com
+- 💞️ I’m looking to collaborate on ...
+  Anything that will help me learn how programming works
+- 📫 How to reach me ...
+
+<!---
+bcaple/bcaple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
